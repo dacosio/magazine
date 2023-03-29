@@ -36,10 +36,6 @@ main h3 {
   margin: 3rem 0 2rem 0;
 }
 
-/* font-family: 'IBM Plex Mono', monospace;
-font-family: 'Montserrat', sans-serif;
-font-family: 'Poppins', sans-serif; */
-
 header {
   text-align: center;
 }
@@ -50,6 +46,7 @@ header {
 
 .logo h1 {
   font-size: 3rem;
+  padding: 1rem 0;
 }
 nav {
   padding: 1rem 0;
@@ -184,21 +181,34 @@ footer div {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
 }
-
 .article-header {
   padding: 1rem;
 }
-.article-header h2 {
-  padding-bottom: 0.5rem;
-}
 
+.article-img-head {
+  text-align: center;
+}
 .article-img {
   max-width: 100%;
   height: auto;
 }
-.article-img-head {
-  text-align: center;
+
+.article-paragraph {
+  padding: 1rem;
 }
+
+.second-header {
+  padding: 1rem;
+}
+
+.author {
+  padding-top: 1rem;
+}
+
+.date {
+  padding-bottom: 1rem;
+}
+
 @media only screen and (min-width: 600px) {
   .head {
     display: flex;
@@ -211,6 +221,10 @@ footer div {
 
   .logo {
     grid-column: 1/2;
+  }
+
+  .logo h1 {
+    padding: 0;
   }
 
   header input {
@@ -249,6 +263,11 @@ footer div {
   .editor article:nth-of-type(2) {
     grid-column: 2/3;
   }
+
+  .article-img {
+    float: left;
+    margin: 0 1rem;
+  }
 }
 
 @media screen and (min-width: 1250px) {
@@ -262,7 +281,10 @@ footer div {
   .nav-links li {
     font-size: 1.2rem;
   }
-
+  main {
+    max-width: 1300px;
+    margin: auto;
+  }
   h3 {
     font-size: 2rem;
   }
