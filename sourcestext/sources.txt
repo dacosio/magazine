@@ -1,9 +1,4 @@
 
-fitness:
-Photo by <a href="https://unsplash.com/@rachmoorephoto?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Rachel Moore</a> on <a href="https://unsplash.com/photos/zfPEja1D0YA?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-https://unsplash.com/photos/zfPEja1D0YA
-article: https://www.refinery29.com/en-us/home-gym-workout-equipment
-
 
 review speaker:
 Photo by <a href="https://unsplash.com/@aungswamnyi?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">aung swam nyi</a> on <a href="https://unsplash.com/photos/FVMEu-UmqY4?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
@@ -56,4 +51,51 @@ nail:
 Photo by <a href="https://unsplash.com/fr/@hngstrm?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Henry & Co.</a> on <a href="https://unsplash.com/photos/OpjlRo-31SI?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 https://unsplash.com/photos/OpjlRo-31SI
 article: https://www.refinery29.com/en-us/2022/12/11233353/nail-art-manicure-trends-2023
+
+nail-article:
+Photo by <a href="https://unsplash.com/@element5digital?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Element5 Digital</a> on <a href="https://unsplash.com/photos/Xf7o2W7qgP0?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+https://unsplash.com/photos/Xf7o2W7qgP0
+
+
+metallic:
+Photo by <a href="https://unsplash.com/@ankumpan?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Anna Kumpan</a> on <a href="https://unsplash.com/photos/3J5K-Jb6GRM?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+https://unsplash.com/photos/3J5K-Jb6GRM
+
+strawberry:
+Photo by <a href="https://unsplash.com/@shmatov?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Konstantin Shmatov</a> on <a href="https://unsplash.com/photos/CyWdliEcsDY?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+https://unsplash.com/photos/CyWdliEcsDY
+
+orange:
+Photo by <a href="https://unsplash.com/@iantalmacs?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ian Talmacs</a> on <a href="https://unsplash.com/photos/ZMWjT4hkkSo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+https://unsplash.com/photos/ZMWjT4hkkSo
+
+mismatch:
+Photo by <a href="https://unsplash.com/de/@lenatrn?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Lena Taranenko</a> on <a href="https://unsplash.com/photos/H18L6UqkzYk?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+https://unsplash.com/photos/H18L6UqkzYk
+
+pink lip gloss:
+Photo by <a href="https://unsplash.com/@sharonmccutcheon?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Alexander Grey</a> on <a href="https://unsplash.com/photos/TFlw3bA4C4A?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+https://unsplash.com/photos/TFlw3bA4C4A
+
+oyster:
+Photo by <a href="https://unsplash.com/@cactuspix?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ke Vin</a> on <a href="https://unsplash.com/photos/VHy0qH7QuWY?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+https://unsplash.com/photos/VHy0qH7QuWY
+
+
+==========
+fitness:
+Photo by <a href="https://unsplash.com/@rachmoorephoto?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Rachel Moore</a> on <a href="https://unsplash.com/photos/zfPEja1D0YA?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+https://unsplash.com/photos/zfPEja1D0YA
+
+
+fitness-article:
+Photo by <a href="https://unsplash.com/@alonsoreyes?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Alonso Reyes</a> on <a href="https://unsplash.com/photos/0HlI76m4jxU?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+https://unsplash.com/photos/0HlI76m4jxU
+
+fitness-article2:
+Photo by <a href="https://unsplash.com/@aloragriffiths?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Alora Griffiths</a> on <a href="https://unsplash.com/photos/AkEr0jc5Lvs?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+https://unsplash.com/photos/AkEr0jc5Lvs
+article: https://www.nbcnews.com/better/lifestyle/what-crossfit-it-right-you-here-s-what-you-need-ncna1070886
+
+
 

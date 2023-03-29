@@ -264,7 +264,7 @@ footer div {
     grid-column: 2/3;
   }
 
-  .article-img {
+  .float {
     float: left;
     margin: 0 1rem 1rem 1rem;
   }
