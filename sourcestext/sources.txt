@@ -1,10 +1,5 @@
 
 
-review speaker:
-Photo by <a href="https://unsplash.com/@aungswamnyi?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">aung swam nyi</a> on <a href="https://unsplash.com/photos/FVMEu-UmqY4?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-https://unsplash.com/photos/FVMEu-UmqY4
-article:https://www.wired.com/review/sonos-era-100/
-
 -------
 curology:
 Photo by <a href="https://unsplash.com/pt-br/@curology?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Curology</a> on <a href="https://unsplash.com/photos/DGH1u80sZik?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
@@ -41,6 +36,10 @@ Photo by <a href="https://unsplash.com/@williambout?utm_source=unsplash&utm_medi
 https://unsplash.com/photos/TY4QMCrS6P4
 
 perfume-article:
+Photo by <a href="https://unsplash.com/@spaablauw?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Joppe Spaa</a> on <a href="https://unsplash.com/photos/Y8kwv9_Vay8?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+https://unsplash.com/photos/Y8kwv9_Vay8
+
+perfume-article2:
 Photo by <a href="https://unsplash.com/@paradox21?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">21 swan</a> on <a href="https://unsplash.com/photos/_7WfmjYokKU?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 https://unsplash.com/photos/_7WfmjYokKU
 article: https://www.refinery29.com/en-us/jack-henry-balance-fragrance-review
@@ -98,4 +97,20 @@ https://unsplash.com/photos/AkEr0jc5Lvs
 article: https://www.nbcnews.com/better/lifestyle/what-crossfit-it-right-you-here-s-what-you-need-ncna1070886
 
 
+
+=========
+review speaker:
+Photo by <a href="https://unsplash.com/@aungswamnyi?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">aung swam nyi</a> on <a href="https://unsplash.com/photos/FVMEu-UmqY4?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+https://unsplash.com/photos/FVMEu-UmqY4
+article:https://www.wired.com/review/sonos-era-100/
+
+
+speaker-article:
+Photo by <a href="https://unsplash.com/@ugmonk?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jeff Sheldon</a> on <a href="https://unsplash.com/photos/eOLpJytrbsQ?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  https://unsplash.com/photos/eOLpJytrbsQ
+
+
+speaker-article2:
+Photo by <a href="https://unsplash.com/fr/@gbeaudry?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Gabriel Beaudry</a> on <a href="https://unsplash.com/photos/qPojqUji_y4?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  https://unsplash.com/photos/qPojqUji_y4
 
