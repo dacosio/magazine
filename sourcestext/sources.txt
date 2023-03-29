@@ -1,25 +1,9 @@
-Business:
-
-https://www.wired.com/story/is-crypto-a-security-a-us-judge-decide-ripple-sec-xrp/#intcid=_wired-verso-hp-trending_1ecfa98e-dc83-4e44-9577-08a5bd40e132_popular4-1
-
-
-
-
-
-perfume:
-Photo by <a href="https://unsplash.com/@williambout?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">William Bout</a> on <a href="https://unsplash.com/photos/TY4QMCrS6P4?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-https://unsplash.com/photos/TY4QMCrS6P4
-article: https://www.refinery29.com/en-us/jack-henry-balance-fragrance-review
 
 fitness:
 Photo by <a href="https://unsplash.com/@rachmoorephoto?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Rachel Moore</a> on <a href="https://unsplash.com/photos/zfPEja1D0YA?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 https://unsplash.com/photos/zfPEja1D0YA
 article: https://www.refinery29.com/en-us/home-gym-workout-equipment
 
-nail:
-Photo by <a href="https://unsplash.com/fr/@hngstrm?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Henry & Co.</a> on <a href="https://unsplash.com/photos/OpjlRo-31SI?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-https://unsplash.com/photos/OpjlRo-31SI
-article: https://www.refinery29.com/en-us/2022/12/11233353/nail-art-manicure-trends-2023
 
 review speaker:
 Photo by <a href="https://unsplash.com/@aungswamnyi?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">aung swam nyi</a> on <a href="https://unsplash.com/photos/FVMEu-UmqY4?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
@@ -54,3 +38,22 @@ money-article2:
 Photo by <a href="https://unsplash.com/de/@wildbook?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Dmitry Demidko</a> on <a href="https://unsplash.com/images/things/money?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 https://unsplash.com/photos/eBWzFKahEaU
 article: https://njaes.rutgers.edu/sshw/message/message.php?p=Finance&m=122
+
+
+-----
+perfume:
+Photo by <a href="https://unsplash.com/@williambout?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">William Bout</a> on <a href="https://unsplash.com/photos/TY4QMCrS6P4?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+https://unsplash.com/photos/TY4QMCrS6P4
+
+perfume-article:
+Photo by <a href="https://unsplash.com/@paradox21?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">21 swan</a> on <a href="https://unsplash.com/photos/_7WfmjYokKU?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+https://unsplash.com/photos/_7WfmjYokKU
+article: https://www.refinery29.com/en-us/jack-henry-balance-fragrance-review
+
+----
+
+nail:
+Photo by <a href="https://unsplash.com/fr/@hngstrm?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Henry & Co.</a> on <a href="https://unsplash.com/photos/OpjlRo-31SI?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+https://unsplash.com/photos/OpjlRo-31SI
+article: https://www.refinery29.com/en-us/2022/12/11233353/nail-art-manicure-trends-2023
+
