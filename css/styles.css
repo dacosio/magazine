@@ -116,6 +116,12 @@ nav {
   font-weight: 600;
 }
 
+.nav-links li:hover {
+  text-decoration: underline;
+  text-underline-offset: 0.5rem;
+  color: #6d6875;
+}
+
 article {
   margin-bottom: 1.5rem;
 }
@@ -209,6 +215,111 @@ footer div {
   padding-bottom: 1rem;
 }
 
+.contact-wrapper h2 {
+  text-align: center;
+  padding: 2rem 0 1rem 0;
+}
+
+.inline-icon {
+  display: flex;
+}
+
+.inline-icon i {
+  padding-right: 0.8rem;
+}
+
+.contact-wrapper {
+  text-align: center;
+  padding-top: 1rem;
+}
+
+form label {
+  text-align: left;
+}
+
+.contact-grid {
+  margin: 1rem;
+  padding: 1rem;
+  border-radius: 1rem;
+  background-color: whitesmoke;
+  box-shadow: 2px 3px 5px rgba(0, 0, 0, 0.5);
+}
+
+form {
+  max-width: 500px;
+  margin: 0 auto;
+}
+form input {
+  margin-bottom: 0.8rem;
+}
+
+.inline-icon {
+  display: flex;
+  justify-content: center;
+  padding: 0.5rem 0;
+}
+.name,
+.mobile-email,
+.message {
+  display: flex;
+  flex-direction: column;
+}
+
+label {
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+.contact-field {
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  transition: border-color 0.3s ease-in-out;
+}
+
+.contact-field:focus {
+  border-color: #4caf50;
+}
+
+textarea {
+  min-height: 150px;
+  max-height: 400px;
+  resize: vertical;
+}
+
+#submitBtn {
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 16px;
+  font-weight: bold;
+  color: #fff;
+  background-color: #4caf50;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease-in-out;
+  margin-top: 1rem;
+  width: 100%;
+}
+
+.right {
+  text-align: left;
+}
+
+#submitBtn:hover {
+  background-color: #3e8e41;
+}
+
+.alert {
+  background-color: #dff0d8;
+  color: #3c763d;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
 @media only screen and (min-width: 600px) {
   .head {
     display: flex;
@@ -267,6 +378,26 @@ footer div {
   .float {
     float: left;
     margin: 0 1rem 1rem 1rem;
+  }
+}
+
+@media screen and (min-width: 835px) {
+  .contact-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+    padding: 2rem 4rem;
+    max-width: 900px;
+    margin: 2rem auto;
+  }
+
+  .left h2,
+  .right h2 {
+    text-align: left;
+  }
+
+  .inline-icon {
+    justify-content: flex-start;
   }
 }
 

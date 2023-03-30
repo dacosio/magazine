@@ -10,19 +10,20 @@
       href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&family=Montserrat&family=Poppins:wght@400;600&display=swap"
       rel="stylesheet"
     />
-    <script src="./index.js"></script>
+    <script src="../index.js" defer></script>
     <script
       src="https://kit.fontawesome.com/60b0b8e6ef.js"
       crossorigin="anonymous"
     ></script>
-    <link rel="stylesheet" href="../css/styles.css" />
+    <link rel="stylesheet" href="../../css/styles.css" />
+
     <title>BEAUTYHIVE</title>
   </head>
   <body>
     <header>
       <div class="head">
         <div class="logo">
-          <a href="../index.html"><h1>BEAUTYHIVE</h1></a>
+          <a href="../../index.html"><h1>BEAUTYHIVE</h1></a>
         </div>
         <div class="search">
           <input type="text" placeholder="Search" />
@@ -33,15 +34,114 @@
       </div>
 
       <nav>
-        <ul class="nav-links">
-          <li><a href="#top-picks">TOP PICKS</a></li>
-          <li><a href="#trending">TRENDING</a></li>
-          <li><a href="#">CONTACT</a></li>
-          <li><a href="#">SOURCES</a></li>
+        <ul class="nav-links nav-links-article">
+          <li><a href="../index.html">HOME</a></li>
+          <li><a href="./contact.html">CONTACT</a></li>
+          <li><a href="./source.html">SOURCES</a></li>
         </ul>
       </nav>
     </header>
-    <main></main>
+    <main>
+      <div class="contact-wrapper">
+        <h1>CONTACT ME</h1>
+
+        <div class="contact-grid">
+          <div class="left">
+            <h2>
+              You may reach me via email, mobile number, and by filling up the
+              fields.
+            </h2>
+            <div class="inline-icon">
+              <i
+                class="fa-solid fa-location-dot"
+                aria-hidden="true"
+                title="location"
+              ></i>
+              <p>Surrey, BC</p>
+            </div>
+            <div class="inline-icon">
+              <i
+                class="fa-solid fa-envelope"
+                aria-hidden="true"
+                title="envelope"
+              ></i>
+              <p>dacosio@gmail.com</p>
+            </div>
+            <div class="inline-icon">
+              <i class="fa-solid fa-phone" aria-hidden="true" title="phone"></i>
+              <p>+1 (672) 338-0294</p>
+            </div>
+          </div>
+
+          <div class="right">
+            <h2>Send me a message</h2>
+
+            <form
+              id="contactForm"
+              action="https://formspree.io/f/mqkoyeje"
+              method="POST"
+            >
+              <div class="name">
+                <label for="firstName">First Name:</label>
+                <input
+                  type="text"
+                  id="firstName"
+                  placeholder="Enter your first name"
+                  name="firstName"
+                  class="contact-field"
+                  required
+                />
+
+                <label for="lastName">Last Name:</label>
+                <input
+                  type="text"
+                  id="lastName"
+                  placeholder="Enter your last name"
+                  name="lastName"
+                  class="contact-field"
+                  required
+                />
+              </div>
+
+              <div class="mobile-email">
+                <label for="mobileNumber">Mobile Number:</label>
+                <input
+                  type="tel"
+                  id="mobileNumber"
+                  placeholder="Enter your mobile number"
+                  name="mobileNumber"
+                  class="contact-field"
+                  required
+                />
+
+                <label for="email">Email:</label>
+                <input
+                  type="email"
+                  id="email"
+                  placeholder="Enter your email address"
+                  name="email"
+                  class="contact-field"
+                  required
+                />
+              </div>
+
+              <div class="message">
+                <label for="message">Message:</label>
+                <textarea
+                  id="message"
+                  placeholder="Enter your message"
+                  name="message"
+                  class="contact-field"
+                  required
+                ></textarea>
+              </div>
+
+              <input id="submitBtn" type="submit" value="Send" />
+            </form>
+          </div>
+        </div>
+      </div>
+    </main>
     <footer>
       <div>THE DON</div>
       <div>MEDIA GROUP</div>
