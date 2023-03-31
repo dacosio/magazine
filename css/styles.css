@@ -12,6 +12,7 @@ body {
   background-color: #f5f5f5;
   font-family: "IBM Plex Mono", monospace, sans-serif;
   min-width: 288px;
+  text-transform: uppercase;
 }
 a {
   text-decoration: none;
@@ -23,6 +24,7 @@ h2,
 h4,
 h5,
 .article-wrapper,
+caption,
 footer {
   font-family: "IBM Plex Mono", monospace, sans-serif;
 }
@@ -38,6 +40,8 @@ main h3 {
 
 header {
   text-align: center;
+  background-color: black;
+  color: white;
 }
 
 .head {
@@ -315,9 +319,7 @@ textarea {
   margin: 0 1rem;
 }
 caption {
-  font-size: 2rem;
-  padding: 1rem 0;
-  text-decoration: underline;
+  padding: 2rem 0;
   text-underline-offset: 0.5rem;
 }
 table {
@@ -353,7 +355,6 @@ td {
   padding: 0.5em;
   border-bottom: 1px solid #ddd;
   text-align: center;
-  text-transform: uppercase;
 }
 /* thead th {
   font-weight: bold;
@@ -380,6 +381,31 @@ tr:nth-child(even) {
 td a:hover {
   text-decoration: underline;
   color: hotpink;
+}
+
+.article-container {
+  text-align: center;
+  padding: 2rem 0;
+  max-width: 400px;
+  margin: auto;
+}
+
+.article-container ul {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.article-container li {
+  list-style-type: none;
+}
+
+.article-container a {
+  padding-bottom: 0.7rem;
+}
+
+.article-container a:hover {
+  text-decoration: underline;
+  text-underline-offset: 0.3rem;
 }
 
 @media only screen and (min-width: 600px) {
